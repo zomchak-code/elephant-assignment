@@ -1,6 +1,6 @@
 # Courses App (Flutter + Bun)
 
-## Env
+## Env requirements
 
 - Bun installed
 - Flutter installed
