@@ -1,0 +1,13 @@
+{
+  "name": "backend",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "bun run src/index.ts",
+    "migrate": "bun run src/migrate.ts"
+  },
+  "dependencies": {
+    "postgres": "^3.4.7"
+  }
+}
+
